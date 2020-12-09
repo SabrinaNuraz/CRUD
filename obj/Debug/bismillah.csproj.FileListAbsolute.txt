@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\bismillah\bin\Debug\bismillah.exe.config
+C:\Users\ASUS\source\repos\bismillah\bin\Debug\bismillah.exe
+C:\Users\ASUS\source\repos\bismillah\bin\Debug\bismillah.pdb
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.Form1.resources
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.Properties.Resources.resources
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.exe
+C:\Users\ASUS\source\repos\bismillah\obj\Debug\bismillah.pdb
+C:\Users\ASUS\source\repos\bismillah\bin\Debug\ukk.accdb
